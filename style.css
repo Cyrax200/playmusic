@@ -103,9 +103,9 @@ progress{
     
 }
 
-@media (width:375px) {
+@media (width:360px) {
     .box{
-        height: 90vh;
+        height: 70vh;
     }
     
 }
